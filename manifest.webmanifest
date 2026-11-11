@@ -1,11 +1,11 @@
 {
-  "name": "Mi Rumbo · Finanzas",
+  "name": "Mi Rumbo",
   "short_name": "Mi Rumbo",
   "lang": "es",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#ECF0F4",
-  "theme_color": "#172C44",
+  "background_color": "#EDEFF2",
+  "theme_color": "#2A49D6",
   "icons": [
     { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
   ]
